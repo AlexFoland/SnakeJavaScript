@@ -1,1 +1,2 @@
-# SnakeJS
+# SnakeJavaScript
+Snake made with JavaScript
